@@ -38,10 +38,3 @@
     <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
   </a>
 </p>
-
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehdilight&show_icons=true&theme=radical" alt="Elmehdi's GitHub stats" />
-</p>
