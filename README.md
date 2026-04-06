@@ -7,7 +7,7 @@
 - 💻 Backend-focused developer specializing in **Laravel**
 - ⚙️ Experienced with **Vue.js**, **React**, **Inertia.js**, and modern JS tooling
 - 🧩 Passionate about building **structured systems**, **automations**, and **complex app logic**
-- 🚀 **Founder of [Hookstash.io](https://hookstash.io)** — a webhook infrastructure platform for capturing, inspecting, transforming, replaying, and routing events reliably
+
 
 ### 🤝 Connect
 <p align="left">
